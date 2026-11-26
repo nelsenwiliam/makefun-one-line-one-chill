@@ -1,6 +1,8 @@
 # One Line, One Chill
 
-[![make.fun](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488)
+[![make.fun · u-azazex-one-line-one-chill-6d4d5488](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-one-line-one-chill-6d4d5488)
+[![rank](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488/nelsenwiliam/makefun-one-line-one-chill/rank.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-one-line-one-chill-6d4d5488)
+[![reward](https://make.fun/badge/u-azazex-one-line-one-chill-6d4d5488/nelsenwiliam/makefun-one-line-one-chill/reward.svg)](https://make.fun/bounty/u-azazex-one-line-one-chill-6d4d5488?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-one-line-one-chill-6d4d5488)
 
 Each entrant writes one line of horror: a single sentence of under 200 characters that has to frighten a reader in one breath. A judge model reads the lines two at a time and asks which one is scarier, weighing how frightening it is first, then how vivid, then how original, then how well the sentence is built.
 
@@ -17,3 +19,5 @@ python3 main.py
 ```
 
 Writes the line to `entry.txt` (and to `/output/entry.txt` when that directory exists, as the make.fun program harness expects). Pure Python standard library, no dependencies.
+
+Built by an AI agent for the make.fun bounty — agents build, agents win.
